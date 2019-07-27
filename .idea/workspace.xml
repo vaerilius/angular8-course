@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/app/header/header.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/header/header.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/app/header/header.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/header/header.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-list.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-list.component.ts" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,40 +18,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/src/app/header/header.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/src/app/header/header.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/project/src/app/app.component.html">
+        <entry file="file://$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-list.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+            <state relative-caret-position="390">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/src/app/app.component.ts">
+        <entry file="file://$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-list.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            <state relative-caret-position="240">
+              <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="43" selection-start-column="43" selection-end-column="43" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#span#0;n#a#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-item/recipe-item.component.css">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -78,10 +88,7 @@
         <option value="$PROJECT_DIR$/project/angular.json" />
         <option value="$PROJECT_DIR$/project/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/project/src/app/recipes/recipes.component.html" />
-        <option value="$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html" />
         <option value="$PROJECT_DIR$/project/src/app/recipes/recipe.model.ts" />
-        <option value="$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-list.component.html" />
-        <option value="$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-list.component.ts" />
         <option value="$PROJECT_DIR$/project/src/app/recipes/recipe-detail/recipe-detail.component.html" />
         <option value="$PROJECT_DIR$/project/src/app/shared/ingredient.model.ts" />
         <option value="$PROJECT_DIR$/project/src/app/shopping-list/shopping-list.component.ts" />
@@ -110,11 +117,15 @@
         <option value="$PROJECT_DIR$/project/src/app/header/header.component.ts" />
         <option value="$PROJECT_DIR$/project/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/project/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html" />
+        <option value="$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-list.component.ts" />
+        <option value="$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts" />
+        <option value="$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-list.component.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
+    <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1057" />
   </component>
@@ -155,7 +166,26 @@
               <item name="project" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="header" type="462c0819:PsiDirectoryNode" />
+              <item name="recipes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="angular8-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angular8-course" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="recipes" type="462c0819:PsiDirectoryNode" />
+              <item name="recipe-list" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="angular8-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angular8-course" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="recipes" type="462c0819:PsiDirectoryNode" />
+              <item name="recipe-list" type="462c0819:PsiDirectoryNode" />
+              <item name="recipe-item" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -217,18 +247,18 @@
       <workItem from="1564137349752" duration="731000" />
       <workItem from="1564160092723" duration="9009000" />
       <workItem from="1564209665369" duration="4924000" />
-      <workItem from="1564231798051" duration="1173000" />
+      <workItem from="1564231798051" duration="2091000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36702000" />
+    <option name="totallyTimeSpent" value="37620000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1057" extended-state="0" />
+    <frame x="953" y="0" width="974" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20021881" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28993437" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -292,27 +322,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project/src/app/recipes/recipes.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-list.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#span#0;n#a#0;n#div#0;n#div#1;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -344,13 +357,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-list.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
         </state>
       </provider>
     </entry>
@@ -539,10 +545,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/app/header/header.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/project/src/app/header/header.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -553,17 +573,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/src/app/header/header.component.html">
+    <entry file="file://$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-item/recipe-item.component.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        <state relative-caret-position="270">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/src/app/app.component.html">
+    <entry file="file://$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        <state>
+          <caret column="43" selection-start-column="43" selection-end-column="43" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#span#0;n#a#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-list.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-list.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
