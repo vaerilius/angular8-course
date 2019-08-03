@@ -2,46 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/how-to-use.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/src/app/active-users/active-users.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/src/app/active-users/active-users.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/src/app/active-users/active-users.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/src/app/counterService.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/src/app/inactive-users/inactive-users.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/src/app/inactive-users/inactive-users.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/src/app/inactive-users/inactive-users.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/src/app/userService.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/src/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-start/tslint.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -58,7 +18,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/services-assignment-start/src/app/userService.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
+            <state relative-caret-position="288">
               <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="37" />
               <folding>
                 <element signature="e#0#48#0" expanded="true" />
@@ -70,11 +30,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/services-assignment-start/src/app/active-users/active-users.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#71#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="192">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -82,11 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/services-assignment-start/src/app/inactive-users/inactive-users.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#69#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="288">
+              <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -94,17 +48,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/services-assignment-start/src/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="264">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/services-assignment-start/src/app/counterService.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/src/app/recipes/recipe.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/services-assignment-start/src/app/counterService.ts">
+        <entry file="file://$PROJECT_DIR$/project/src/app/shopping-list/shopping-list.service.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="48">
+              <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -125,8 +97,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assignment 4/src/app/even/even.component.ts" />
-        <option value="$PROJECT_DIR$/Assignment 4/src/app/odd/odd.component.html" />
         <option value="$PROJECT_DIR$/Assignment 4/src/app/even/even.component.html" />
         <option value="$PROJECT_DIR$/Assignment 4/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/Assignment 4/src/app/even/even.component.css" />
@@ -176,12 +146,14 @@
         <option value="$PROJECT_DIR$/services-assignment-start/src/app/active-users/active-users.component.ts" />
         <option value="$PROJECT_DIR$/services-assignment-start/src/app/userService.ts" />
         <option value="$PROJECT_DIR$/services-assignment-start/src/app/counterService.ts" />
+        <option value="$PROJECT_DIR$/project/src/app/recipes/recipe.service.ts" />
+        <option value="$PROJECT_DIR$/project/src/app/shopping-list/shopping-list.service.ts" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="923" />
-    <option name="width" value="1004" />
+    <option name="x" value="1051" />
+    <option name="width" value="876" />
     <option name="height" value="1057" />
   </component>
   <component name="ProjectView">
@@ -202,25 +174,36 @@
             <path>
               <item name="angular8-course" type="b2602c69:ProjectViewProjectNode" />
               <item name="angular8-course" type="462c0819:PsiDirectoryNode" />
-              <item name="services-assignment-start" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="angular8-course" type="b2602c69:ProjectViewProjectNode" />
               <item name="angular8-course" type="462c0819:PsiDirectoryNode" />
-              <item name="services-assignment-start" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="angular8-course" type="b2602c69:ProjectViewProjectNode" />
               <item name="angular8-course" type="462c0819:PsiDirectoryNode" />
-              <item name="services-assignment-start" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="angular8-course" type="b2602c69:ProjectViewProjectNode" />
               <item name="angular8-course" type="462c0819:PsiDirectoryNode" />
-              <item name="services-start" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="recipes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="angular8-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angular8-course" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="shopping-list" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -234,14 +217,14 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/project/src/app/recipes" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
     <property name="ts.external.directory.path" value="C:\Users\Timo\Documents\Angular\angular8-course\first-app\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
@@ -294,7 +277,9 @@
       <workItem from="1564592630680" duration="25000" />
       <workItem from="1564646918543" duration="6495000" />
       <workItem from="1564654160415" duration="598000" />
-      <workItem from="1564722829783" duration="8726000" />
+      <workItem from="1564722829783" duration="9055000" />
+      <workItem from="1564853172418" duration="329000" />
+      <workItem from="1564853518510" duration="250000" />
     </task>
     <task id="LOCAL-00001" summary="directives">
       <created>1564420895177</created>
@@ -307,15 +292,15 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77379000" />
+    <option name="totallyTimeSpent" value="78287000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="923" y="0" width="1004" height="1057" extended-state="0" />
+    <frame x="747" y="0" width="1180" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.31355932" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.17142858" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4989059" weight="0.17037863" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3296582" />
@@ -327,7 +312,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="GraphQL" order="9" weight="0.32962137" />
       <window_info anchor="bottom" id="TypeScript" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4989059" visible="true" weight="0.24164811" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4989059" visible="true" weight="0.20044543" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5010941" side_tool="true" weight="0.33296213" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -365,20 +350,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="directives" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cmp-databinding-start/src/app/cockpit/cockpit.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmp-databinding-start/src/app/cockpit/cockpit.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cmp-databinding-start/src/app/server-element/server-element.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -594,9 +565,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/services-start/src/app/statusService.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/services-start/src/app/statusService.ts" />
     <entry file="file://$PROJECT_DIR$/services-start/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -685,26 +654,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/services-assignment-start/src/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services-assignment-start/src/app/active-users/active-users.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#71#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/services-assignment-start/src/app/userService.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="288">
           <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="37" />
           <folding>
             <element signature="e#0#48#0" expanded="true" />
@@ -712,20 +664,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/services-assignment-start/src/app/active-users/active-users.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/services-assignment-start/src/app/inactive-users/inactive-users.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#69#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="288">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services-assignment-start/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/services-assignment-start/src/app/counterService.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="312">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/app/recipes/recipe.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/app/shopping-list/shopping-list.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
         </state>
       </provider>
     </entry>
