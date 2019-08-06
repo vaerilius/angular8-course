@@ -2,57 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/routing-start/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/how-to-use.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/src/app/home/home.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/src/app/home/home.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/src/app/home/home.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/src/app/servers/edit-server/edit-server.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/src/app/servers/edit-server/edit-server.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/src/app/servers/edit-server/edit-server.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/src/app/servers/server/server.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/src/app/servers/server/server.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/src/app/servers/server/server.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/src/app/servers/servers.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/src/app/servers/servers.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/src/app/servers/servers.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/src/app/servers/servers.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/src/app/users/user/user.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/src/app/users/user/user.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/src/app/users/user/user.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/src/app/users/users.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/src/app/users/users.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/src/app/users/users.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/src/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing-start/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/routing-start/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routing-start/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/routing-start/src/app/app.component.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -84,7 +35,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
@@ -149,7 +100,8 @@
       <workItem from="1564853518510" duration="2047000" />
       <workItem from="1564914412321" duration="5170000" />
       <workItem from="1564982311001" duration="561000" />
-      <workItem from="1564982916991" duration="5720000" />
+      <workItem from="1564982916991" duration="5908000" />
+      <workItem from="1565067771963" duration="420000" />
     </task>
     <task id="LOCAL-00001" summary="directives">
       <created>1564420895177</created>
@@ -169,7 +121,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
