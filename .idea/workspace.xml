@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/app/servers/servers.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/routing-start/src/app/servers/servers.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/app/servers/servers.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/routing-start/src/app/servers/servers.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routing-start/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/routing-start/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routing-start/src/app/users/user/user.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/routing-start/src/app/users/user/user.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routing-start/src/app/users/user/user.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/routing-start/src/app/users/user/user.component.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +102,7 @@
       <workItem from="1564914412321" duration="5170000" />
       <workItem from="1564982311001" duration="561000" />
       <workItem from="1564982916991" duration="5908000" />
-      <workItem from="1565067771963" duration="1231000" />
+      <workItem from="1565067771963" duration="1838000" />
     </task>
     <task id="LOCAL-00001" summary="directives">
       <created>1564420895177</created>
