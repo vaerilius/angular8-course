@@ -11,11 +11,13 @@ export class ServerComponent implements OnInit {
   server: { id: number, name: string, status: string };
 
   constructor(private serversService: ServersService,
-              private route: ActivatedRoute, private router: Router) {
+              private route: ActivatedRoute,
+              private router: Router) {
   }
 
   ngOnInit() {
-    this.route.data.subscribe((data: Data) => {
+    this.route.data
+      .subscribe((data: Data) => {
       this.server = data['server'];
     }
   );
@@ -29,9 +31,6 @@ export class ServerComponent implements OnInit {
 
   onEdit() {
     // this.router.navigate(['/servers', this.server.id, 'edit']);
-    this.router.navigate(['edit'], {
-      relativeTo: this.route,
-      queryParamsHandling: 'preserve'
-    });
+    this.router.navigate(['edit'], {relativeTo: this.route, queryParamsHandling: 'preserve'});
   }
 }
