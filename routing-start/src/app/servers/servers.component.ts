@@ -1,13 +1,14 @@
 import { Component, OnInit } from '@angular/core';
 import { ServersService } from './servers.service';
 import {ActivatedRoute, Router} from "@angular/router";
+import {CanComponentDeactivate} from "./edit-server/can-component.deactivate";
 
 @Component({
   selector: 'app-servers',
   templateUrl: './servers.component.html',
   styleUrls: ['./servers.component.css']
 })
-export class ServersComponent implements OnInit {
+export class ServersComponent implements OnInit{
   private servers: {id: number, name: string, status: string}[] = [];
 
   constructor(private serversService: ServersService,
@@ -21,4 +22,5 @@ export class ServersComponent implements OnInit {
   onReload() {
   // this.router.navigate(['/servers'], {relativeTo: this.route});
   }
+
 }
