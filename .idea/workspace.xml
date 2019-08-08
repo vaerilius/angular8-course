@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/routing-start/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/app/auth-guard.service..ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/app/auth.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routing-start/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/routing-start/src/app/app-routing.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routing-start/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/routing-start/src/app/app.module.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -107,7 +109,7 @@
       <workItem from="1565167253697" duration="67000" />
       <workItem from="1565167356293" duration="3524000" />
       <workItem from="1565171572432" duration="6000" />
-      <workItem from="1565238857762" duration="673000" />
+      <workItem from="1565238857762" duration="1987000" />
     </task>
     <task id="LOCAL-00001" summary="directives">
       <created>1564420895177</created>
