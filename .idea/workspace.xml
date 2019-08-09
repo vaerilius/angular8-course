@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/project/src/app/app-routing.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/app/servers/edit-server/edit-server.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/routing-start/src/app/servers/edit-server/edit-server.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/app/servers/server/server.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/routing-start/src/app/servers/server/server.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/header/header.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/header/header.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/header/header.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/header/header.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routing-start/src/app/servers/servers.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/routing-start/src/app/servers/servers.component.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +51,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Timo\Documents\Angular\angular8-course\project\src\app" />
       <recent name="C:\Users\Timo\Documents\Angular\angular8-course\routing-start\src\app" />
       <recent name="C:\Users\Timo\Documents\Angular\angular8-course\directives-start\src\app\better-highlight" />
       <recent name="C:\Users\Timo\Documents\Angular\angular8-course\Assignment 4\src\app" />
@@ -107,7 +112,13 @@
       <workItem from="1565167253697" duration="67000" />
       <workItem from="1565167356293" duration="3524000" />
       <workItem from="1565171572432" duration="6000" />
-      <workItem from="1565238857762" duration="9564000" />
+      <workItem from="1565238857762" duration="9626000" />
+      <workItem from="1565254742780" duration="792000" />
+      <workItem from="1565268725664" duration="1131000" />
+      <workItem from="1565280939188" duration="3235000" />
+      <workItem from="1565284990644" duration="1243000" />
+      <workItem from="1565325668929" duration="676000" />
+      <workItem from="1565326535270" duration="1987000" />
     </task>
     <task id="LOCAL-00001" summary="directives">
       <created>1564420895177</created>
