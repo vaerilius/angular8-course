@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/app/recipes/recipe-detail/recipe-detail.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/recipes/recipe-detail/recipe-detail.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/app/recipes/recipe.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/recipes/recipe.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-list.component.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -116,7 +115,7 @@
       <workItem from="1565280939188" duration="3235000" />
       <workItem from="1565284990644" duration="1243000" />
       <workItem from="1565325668929" duration="676000" />
-      <workItem from="1565326535270" duration="5508000" />
+      <workItem from="1565326535270" duration="7042000" />
     </task>
     <task id="LOCAL-00001" summary="directives">
       <created>1564420895177</created>
