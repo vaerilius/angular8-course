@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forms-td-start/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/forms-td-start/src/app/app.component.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/forms-td-start/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/forms-td-start/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forms-td-start/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/forms-td-start/src/app/app.component.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -126,7 +126,7 @@
       <workItem from="1565543656077" duration="18000" />
       <workItem from="1565585395633" duration="256000" />
       <workItem from="1565585667241" duration="9307000" />
-      <workItem from="1565605887536" duration="2205000" />
+      <workItem from="1565605887536" duration="2883000" />
     </task>
     <task id="LOCAL-00001" summary="directives">
       <created>1564420895177</created>
@@ -149,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565607557028</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adding Validation to check User Input">
+      <created>1565608103326</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1565608103326</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,6 +180,7 @@
     <MESSAGE value="directives" />
     <MESSAGE value="Submitting and Using the Form" />
     <MESSAGE value="Accessing the Form with @ViewChild" />
-    <option name="LAST_COMMIT_MESSAGE" value="Accessing the Form with @ViewChild" />
+    <MESSAGE value="Adding Validation to check User Input" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Validation to check User Input" />
   </component>
 </project>
