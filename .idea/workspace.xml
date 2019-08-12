@@ -2,46 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td-start/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td-start/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td-start/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td-start/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td-start/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td-start/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td-start/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td-start/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td-start/how-to-use.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td-start/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td-start/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td-start/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td-start/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td-start/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td-start/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td-start/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td-start/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td-start/src/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td-start/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td-start/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td-start/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td-start/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td-start/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td-start/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td-start/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td-start/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td-start/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td-start/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td-start/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td-start/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td-start/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td-start/tslint.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/app/recipes/recipe.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/recipes/recipe.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/app/recipes/recipes.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/recipes/recipes.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/app/shopping-list/shopping-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/shopping-list/shopping-list.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/app/shopping-list/shopping-list.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/shopping-list/shopping-list.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forms-td-start/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/forms-td-start/src/app/app.component.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -163,7 +125,7 @@
       <workItem from="1565543656077" duration="18000" />
       <workItem from="1565585395633" duration="256000" />
       <workItem from="1565585667241" duration="9307000" />
-      <workItem from="1565605887536" duration="1056000" />
+      <workItem from="1565605887536" duration="1609000" />
     </task>
     <task id="LOCAL-00001" summary="directives">
       <created>1564420895177</created>
@@ -172,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564420895178</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Submitting and Using the Form">
+      <created>1565607010378</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1565607010378</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,6 +163,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="directives" />
-    <option name="LAST_COMMIT_MESSAGE" value="directives" />
+    <MESSAGE value="Submitting and Using the Form" />
+    <option name="LAST_COMMIT_MESSAGE" value="Submitting and Using the Form" />
   </component>
 </project>
