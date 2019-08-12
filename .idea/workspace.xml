@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forms-td-start/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/forms-td-start/src/app/app.component.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/forms-td-start/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/forms-td-start/src/app/app.component.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -126,7 +125,7 @@
       <workItem from="1565543656077" duration="18000" />
       <workItem from="1565585395633" duration="256000" />
       <workItem from="1565585667241" duration="9307000" />
-      <workItem from="1565605887536" duration="2883000" />
+      <workItem from="1565605887536" duration="3153000" />
     </task>
     <task id="LOCAL-00001" summary="directives">
       <created>1564420895177</created>
@@ -156,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565608103326</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Built-in Validators &amp; Using HTML5 Validation">
+      <created>1565608809316</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1565608809316</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +187,7 @@
     <MESSAGE value="Submitting and Using the Form" />
     <MESSAGE value="Accessing the Form with @ViewChild" />
     <MESSAGE value="Adding Validation to check User Input" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding Validation to check User Input" />
+    <MESSAGE value="Built-in Validators &amp; Using HTML5 Validation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Built-in Validators &amp; Using HTML5 Validation" />
   </component>
 </project>
