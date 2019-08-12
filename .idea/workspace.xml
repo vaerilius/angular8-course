@@ -2,10 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/obs-01-start/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs-01-start/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs-01-start/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs-01-start/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs-01-start/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs-01-start/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs-01-start/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs-01-start/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs-01-start/how-to-use.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs-01-start/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs-01-start/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs-01-start/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs-01-start/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs-01-start/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs-01-start/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs-01-start/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs-01-start/src/app/home/home.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs-01-start/src/app/home/home.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs-01-start/src/app/home/home.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs-01-start/src/app/user/user.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs-01-start/src/app/user/user.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs-01-start/src/app/user/user.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs-01-start/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs-01-start/src/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs-01-start/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs-01-start/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs-01-start/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs-01-start/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs-01-start/src/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs-01-start/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs-01-start/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs-01-start/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs-01-start/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs-01-start/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs-01-start/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs-01-start/src/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs-01-start/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs-01-start/tslint.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/app.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-list.component.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +73,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/routing-final" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
@@ -115,7 +152,17 @@
       <workItem from="1565280939188" duration="3235000" />
       <workItem from="1565284990644" duration="1243000" />
       <workItem from="1565325668929" duration="676000" />
-      <workItem from="1565326535270" duration="7042000" />
+      <workItem from="1565326535270" duration="9627000" />
+      <workItem from="1565336196206" duration="5222000" />
+      <workItem from="1565505348136" duration="57000" />
+      <workItem from="1565508254917" duration="2389000" />
+      <workItem from="1565511934115" duration="319000" />
+      <workItem from="1565512268435" duration="10000" />
+      <workItem from="1565516127906" duration="3303000" />
+      <workItem from="1565542335280" duration="528000" />
+      <workItem from="1565543656077" duration="18000" />
+      <workItem from="1565585395633" duration="256000" />
+      <workItem from="1565585667241" duration="1272000" />
     </task>
     <task id="LOCAL-00001" summary="directives">
       <created>1564420895177</created>
@@ -147,5 +194,16 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="directives" />
     <option name="LAST_COMMIT_MESSAGE" value="directives" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/project/src/app/shopping-list/shopping-list.service.ts</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
