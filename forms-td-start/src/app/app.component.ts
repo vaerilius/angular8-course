@@ -17,7 +17,7 @@ export class AppComponent {
   // onSubmit(form: NgForm) {
   // console.log(form.value);
   // }
-  onSubmit(form: NgForm) {
+  onSubmit() {
   console.log(this.signIn);
   }
 }
