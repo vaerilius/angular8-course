@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs-01-start/src/app/user.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obs-01-start/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/obs-01-start/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obs-01-start/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/obs-01-start/src/app/app.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obs-01-start/src/app/home/home.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/obs-01-start/src/app/home/home.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obs-01-start/src/app/user/user.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/obs-01-start/src/app/user/user.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obs-01-start/src/app/user/user.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/obs-01-start/src/app/user/user.component.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +40,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
+    <property name="js.linters.configure.manually.selectedtslint" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
@@ -41,7 +48,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.TypeScript" />
     <property name="ts.external.directory.path" value="C:\Users\Timo\Documents\Angular\angular8-course\services-start\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
@@ -123,7 +130,7 @@
       <workItem from="1565542335280" duration="528000" />
       <workItem from="1565543656077" duration="18000" />
       <workItem from="1565585395633" duration="256000" />
-      <workItem from="1565585667241" duration="3401000" />
+      <workItem from="1565585667241" duration="5760000" />
     </task>
     <task id="LOCAL-00001" summary="directives">
       <created>1564420895177</created>
