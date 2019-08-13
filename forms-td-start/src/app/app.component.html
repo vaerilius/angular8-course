@@ -16,7 +16,8 @@
           </div>
           <button class="btn btn-default"
                   type="button"
-          (click)="suggestUserName()">Suggest an Username</button>
+                  (click)="suggestUserName()">Suggest an Username
+          </button>
           <div class="form-group">
             <label for="email">Mail</label>
             <input type="email"
@@ -54,9 +55,10 @@
           <div class="form-group" *ngFor="let gender of genders">
             <label>
               <input type="radio"
-              name="gender"
-              ngModel
-              [value]="gender">
+                     name="gender"
+                     ngModel
+                     [value]="gender"
+                     required>
               {{gender}}
             </label>
           </div>
@@ -67,6 +69,16 @@
           </button>
         </div>
       </form>
+      <hr>
+    </div>
+    <div class="row" *ngIf="submitted">
+      <div class="col-xs-12">
+        <h3>Your Data</h3>
+        <p>Username: {{user.username}} </p>
+        <p>Mail: {{user.email}}</p>
+        <p>Secret question: {{user.secretQuestion}}</p>
+        <p>Gender: {{user.gender}}</p>
+      </div>
     </div>
   </div>
 </div>

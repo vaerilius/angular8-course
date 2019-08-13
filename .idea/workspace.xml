@@ -36,7 +36,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="js.linters.configure.manually.selectedtslint" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/forms-td-final" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
@@ -128,7 +128,7 @@
       <workItem from="1565585667241" duration="9307000" />
       <workItem from="1565605887536" duration="3690000" />
       <workItem from="1565626909599" duration="2609000" />
-      <workItem from="1565671184813" duration="3967000" />
+      <workItem from="1565671184813" duration="6085000" />
     </task>
     <task id="LOCAL-00001" summary="directives">
       <created>1564420895177</created>
