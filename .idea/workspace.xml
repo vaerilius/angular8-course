@@ -4,6 +4,8 @@
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/forms-td-start/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/forms-td-start/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forms-td-start/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/forms-td-start/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/forms-td-start/src/app/app.component.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -125,7 +127,9 @@
       <workItem from="1565543656077" duration="18000" />
       <workItem from="1565585395633" duration="256000" />
       <workItem from="1565585667241" duration="9307000" />
-      <workItem from="1565605887536" duration="3153000" />
+      <workItem from="1565605887536" duration="3690000" />
+      <workItem from="1565626909599" duration="2609000" />
+      <workItem from="1565671184813" duration="346000" />
     </task>
     <task id="LOCAL-00001" summary="directives">
       <created>1564420895177</created>
@@ -162,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565608809316</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="TD: Outputting Validation&#10;Error Messages">
+      <created>1565609124327</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1565609124327</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,6 +199,7 @@
     <MESSAGE value="Accessing the Form with @ViewChild" />
     <MESSAGE value="Adding Validation to check User Input" />
     <MESSAGE value="Built-in Validators &amp; Using HTML5 Validation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Built-in Validators &amp; Using HTML5 Validation" />
+    <MESSAGE value="TD: Outputting Validation&#10;Error Messages" />
+    <option name="LAST_COMMIT_MESSAGE" value="TD: Outputting Validation&#10;Error Messages" />
   </component>
 </project>
