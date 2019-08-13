@@ -4,7 +4,7 @@
       <form (ngSubmit)="onSubmit()" #f="ngForm">
         <div id="user-data"
              ngModelGroup="userData"
-        #userData="ngModelGroup">
+             #userData="ngModelGroup">
           <div class="form-group">
             <label for="username">Username</label>
             <input type="text"
@@ -24,33 +24,46 @@
                    name="email"
                    required
                    email
-            #email="ngModel">
+                   #email="ngModel">
           </div>
           <span class="help-block" *ngIf="!email.valid && email.touched">Please enter a valid email!</span>
-        </div>
-        <p *ngIf="!userData.valid && userData.touched">User Data is inValid!</p>
-        <div class="form-group">
-          <label for="secret">Secret Questions</label>
-          <select id="secret"
-                  class="form-control"
-                  [ngModel]="defaultQuestion"
-                  name="secret">
-            <option value="pet">Your first Pet?</option>
-            <option value="teacher">Your first teacher?</option>
-          </select>
-        </div>
-        <div class="form-group">
+
+          <p *ngIf="!userData.valid && userData.touched">User Data is inValid!</p>
+          <div class="form-group">
+            <label for="secret">Secret Questions</label>
+            <select id="secret"
+                    class="form-control"
+                    [ngModel]="defaultQuestion"
+                    name="secret">
+              <option value="pet">Your first Pet?</option>
+              <option value="teacher">Your first teacher?</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label>
           <textarea
             class="form-control"
             name="questionAnswer"
             rows="3"
             [(ngModel)]="answer"></textarea>
+            </label>
+          </div>
+          <p>Your reply: {{ answer }}</p>
+          <div class="form-group" *ngFor="let gender of genders">
+            <label>
+              <input type="radio"
+              name="gender"
+              ngModel
+              [value]="gender">
+              {{gender}}
+            </label>
+          </div>
+
+          <button class="btn btn-primary"
+                  type="submit"
+                  [disabled]="!f.valid">Submit
+          </button>
         </div>
-        <p>Your reply: {{ answer }}</p>
-        <button class="btn btn-primary"
-                type="submit"
-                ngModel
-        [disabled]="!f.valid">Submit</button>
       </form>
     </div>
   </div>
