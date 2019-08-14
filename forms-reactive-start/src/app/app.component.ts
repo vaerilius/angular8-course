@@ -31,6 +31,7 @@ export class AppComponent implements OnInit {
 
   addHobby() {
     const control = new FormControl(null, Validators.required);
+    // @ts-ignore
     (this.signUpForm.get('hobbies') as FormControl).push(control);
   }
 
