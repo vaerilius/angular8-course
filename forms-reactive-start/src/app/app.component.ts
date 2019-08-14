@@ -6,14 +6,16 @@ import {FormControl, FormGroup, Validators} from '@angular/forms';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
-export class AppComponent implements OnInit{
+export class AppComponent implements OnInit {
   genders = ['male', 'female'];
   signUpForm: FormGroup;
 
   ngOnInit(): void {
     this.signUpForm = new FormGroup({
-      'username': new FormControl(null, Validators.required),
-      'email': new FormControl(null, [Validators.required, Validators.email]),
+      'userData': new FormGroup({
+        'username': new FormControl(null, Validators.required),
+        'email': new FormControl(null, [Validators.required, Validators.email]),
+      }),
       'gender': new FormControl('male')
     });
   }

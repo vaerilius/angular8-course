@@ -2,22 +2,32 @@
   <div class="row">
     <div class="col-xs-12 col-sm-10 col-md-8 col-sm-offset-1 col-md-offset-2">
       <form [formGroup]="signUpForm" (ngSubmit)="onSubmit()">
-        <div class="form-group" >
-          <label for="username">Username</label>
-          <input
-            type="text"
-            id="username"
-            formControlName="username"
-            class="form-control">
+        <div formGroupName="userData">
+          <div class="form-group" >
+            <label for="username">Username</label>
+            <input
+              type="text"
+              id="username"
+              formControlName="username"
+              class="form-control">
+            <span
+              *ngIf="!signUpForm.get('userData.username').valid && signUpForm.get('userData.username').touched"
+              class="help-block">Please enter a valid username!</span>
+          </div>
+          <div class="form-group">
+            <label for="email">email</label>
+            <input
+              type="text"
+              id="email"
+              formControlName="email"
+              class="form-control">
+            <span
+              *ngIf="!signUpForm.get('userData.email').valid && signUpForm.get('userData.email').touched"
+              class="help-block">Please enter a valid email</span>
+          </div>
+
         </div>
-        <div class="form-group">
-          <label for="email">email</label>
-          <input
-            type="text"
-            id="email"
-            formControlName="email"
-            class="form-control">
-        </div>
+
         <div class="radio" *ngFor="let gender of genders">
           <label>
             <input
@@ -26,6 +36,9 @@
               [value]="gender">{{ gender }}
           </label>
         </div>
+        <span
+          *ngIf="!signUpForm.valid && signUpForm.touched"
+          class="help-block">Please enter a valid Data</span>
         <button class="btn btn-primary" type="submit">Submit</button>
       </form>
     </div>
