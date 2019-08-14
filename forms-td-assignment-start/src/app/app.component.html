@@ -3,48 +3,50 @@
     <div class="col-xs-12 col-sm-10 col-md-8 col-sm-offset-1 col-md-offset-2">
       <br>
       <hr>
-        <form (ngSubmit)="onSubmit()" #f="ngForm">
-          <div
+      <form (ngSubmit)="onSubmit()" #f="ngForm">
+        <div
           ngModelGroup="ngModelGroup"
           #data="ngModelGroup">
-            <div class="form-group">
-                <input
-                  placeholder="email"
-                  class="form-control"
-                  type="email"
-                name="email"
-                ngModel
-                required
-                #email="ngModel">
-            </div>
-            <p *ngIf="!email.valid && email.touched">a warning message</p>
-            <div class="form-group">
-              <select
-                class="form-control"
-                [ngModel]="basic"
-                name="select" >
-                <option value="basic">Basic</option>
-                <option value="advanced">Advanced</option>
-                <option value="pro">Pro</option>
-
-              </select>
-
-            </div>
-            <div class="form-group">
-              <input
-                placeholder="password"
-                class="form-control"
-                type="password"
-                name="password"
-                ngModel
-                required
-              #pw="ngModel">
-            </div>
+          <div class="form-group">
+            <label for="email">email</label>
+            <input
+              id="email"
+              placeholder="email"
+              class="form-control"
+              type="email"
+              name="email"
+              ngModel
+              required
+              email
+              #email="ngModel">
           </div>
-          <p *ngIf="!pw.valid && pw.touched">a warning message</p>
-          <button class="btn btn primary">Submit</button>
-          <p *ngIf="!f.valid && f.touched">a warning message</p>
-        </form>
+          <p *ngIf="!email.valid && email.touched">a warning message</p>
+          <div class="form-group">
+            <label for="subs"></label>
+            <select
+              id="subs"
+              class="form-control"
+              name="subscription"
+              [ngModel]="selected">
+              <option *ngFor="let subscription of subscriptions">{{subscription}}</option>
+            </select>
+
+          </div>
+          <div class="form-group">
+            <input
+              placeholder="password"
+              class="form-control"
+              type="password"
+              name="password"
+              ngModel
+              required
+              #pw="ngModel">
+          </div>
+        </div>
+        <p *ngIf="!pw.valid && pw.touched">a warning message</p>
+        <button class="btn btn primary">Submit</button>
+        <p *ngIf="!f.valid && f.touched">a warning message</p>
+      </form>
 
     </div>
   </div>

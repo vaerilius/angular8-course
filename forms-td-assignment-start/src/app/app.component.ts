@@ -9,7 +9,8 @@ import {NgForm} from '@angular/forms';
 export class AppComponent {
   @ViewChild('f', {static: false}) signIn: NgForm;
   submitted = false;
-  basic = 'basic';
+  subscriptions = ['basic', 'advanced', 'pro'];
+  selected: 'advanced';
 
   onSubmit() {
   this.submitted = true;
