@@ -2,6 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/forms-reactive-assignment-start/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms-reactive-assignment-start/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms-reactive-assignment-start/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms-reactive-assignment-start/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms-reactive-assignment-start/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms-reactive-assignment-start/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms-reactive-assignment-start/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms-reactive-assignment-start/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms-reactive-assignment-start/how-to-use.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms-reactive-assignment-start/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms-reactive-assignment-start/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms-reactive-assignment-start/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms-reactive-assignment-start/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms-reactive-assignment-start/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms-reactive-assignment-start/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms-reactive-assignment-start/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms-reactive-assignment-start/src/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms-reactive-assignment-start/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms-reactive-assignment-start/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms-reactive-assignment-start/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms-reactive-assignment-start/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms-reactive-assignment-start/src/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms-reactive-assignment-start/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms-reactive-assignment-start/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms-reactive-assignment-start/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms-reactive-assignment-start/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms-reactive-assignment-start/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms-reactive-assignment-start/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms-reactive-assignment-start/src/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms-reactive-assignment-start/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms-reactive-assignment-start/tslint.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/forms-reactive-start/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/forms-reactive-start/src/app/app.component.ts" afterDir="false" />
     </list>
@@ -131,7 +162,7 @@
       <workItem from="1565686236365" duration="9000" />
       <workItem from="1565757451177" duration="198000" />
       <workItem from="1565759054346" duration="1309000" />
-      <workItem from="1565760383533" duration="6051000" />
+      <workItem from="1565760383533" duration="7467000" />
     </task>
     <task id="LOCAL-00001" summary="directives">
       <created>1564420895177</created>
