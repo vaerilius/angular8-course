@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/shopping-list/shopping-edit/shopping-edit.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/shopping-list/shopping-edit/shopping-edit.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/src/app/shopping-list/shopping-list.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/shopping-list/shopping-list.service.ts" afterDir="false" />
     </list>
@@ -133,7 +134,7 @@
       <workItem from="1565757451177" duration="198000" />
       <workItem from="1565759054346" duration="1309000" />
       <workItem from="1565760383533" duration="13875000" />
-      <workItem from="1565845464565" duration="3925000" />
+      <workItem from="1565845464565" duration="4626000" />
     </task>
     <task id="LOCAL-00001" summary="directives">
       <created>1564420895177</created>

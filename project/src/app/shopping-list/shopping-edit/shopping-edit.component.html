@@ -24,7 +24,8 @@
       </div>
       <div class="row">
         <div class="col-xs-12 btn-group">
-          <button class="btn btn-success" type="submit" [disabled]="f.invalid">Add</button>
+          <button class="btn btn-success" type="submit"
+                  [disabled]="f.invalid">{{editMode ? 'Update' : 'Add'}}</button>
           <button class="btn btn-danger" type="button">Delete</button>
           <button class="btn btn-primary" type="button">Clear</button>
         </div>
