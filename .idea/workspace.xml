@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/recipes/recipe-edit/recipe-edit.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/recipes/recipe-edit/recipe-edit.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/src/app/recipes/recipe-edit/recipe-edit.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/recipes/recipe-edit/recipe-edit.component.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -133,7 +135,7 @@
       <workItem from="1565759054346" duration="1309000" />
       <workItem from="1565760383533" duration="13875000" />
       <workItem from="1565845464565" duration="7741000" />
-      <workItem from="1565854700136" duration="1027000" />
+      <workItem from="1565854700136" duration="1548000" />
     </task>
     <task id="LOCAL-00001" summary="directives">
       <created>1564420895177</created>
