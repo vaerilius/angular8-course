@@ -26,7 +26,7 @@
                   id="email"
                   type="text"
                   class="form-control">
-                <span *ngIf="  submitForm.get('projectData.email').touched && !submitForm.get('projectData.email').valid">
+                <span *ngIf="submitForm.get('projectData.email').touched && !submitForm.get('projectData.email').valid">
                   <span *ngIf="submitForm.get('projectData.email').errors['required']">Required</span>
                   <br>
                   <span *ngIf="!submitForm.get('projectData.email').valid">Invalid</span>

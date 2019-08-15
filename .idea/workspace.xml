@@ -3,10 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forms-reactive-assignment-start/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/forms-reactive-assignment-start/src/app/app.component.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/forms-reactive-assignment-start/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/forms-reactive-assignment-start/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forms-reactive-assignment-start/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/forms-reactive-assignment-start/src/app/app.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/forms-reactive-assignment-start/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/forms-reactive-assignment-start/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/shopping-list/shopping-edit/shopping-edit.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/shopping-list/shopping-edit/shopping-edit.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +47,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.TypeScript" />
-    <property name="ts.external.directory.path" value="C:\Users\Timo\Documents\Angular\angular8-course\services-start\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\Users\Timo\Documents\Angular\angular8-course\forms-reactive-assignment-start\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -134,7 +135,8 @@
       <workItem from="1565686236365" duration="9000" />
       <workItem from="1565757451177" duration="198000" />
       <workItem from="1565759054346" duration="1309000" />
-      <workItem from="1565760383533" duration="13829000" />
+      <workItem from="1565760383533" duration="13875000" />
+      <workItem from="1565845464565" duration="2243000" />
     </task>
     <task id="LOCAL-00001" summary="directives">
       <created>1564420895177</created>
