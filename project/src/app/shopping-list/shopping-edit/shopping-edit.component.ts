@@ -43,7 +43,6 @@ export class ShoppingEditComponent implements OnInit, OnDestroy {
     }
     this.resetForm();
   }
-
   resetForm() {
     this.editMode = false;
     this.slForm.reset();
@@ -53,5 +52,8 @@ export class ShoppingEditComponent implements OnInit, OnDestroy {
     this.subscription.unsubscribe();
   }
 
-
+  onDelete() {
+    this.shoppingService.deleteIngredient(this.editedItemIndex);
+    this.resetForm();
+  }
 }

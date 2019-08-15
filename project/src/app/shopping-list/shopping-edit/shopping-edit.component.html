@@ -26,7 +26,7 @@
         <div class="col-xs-12 btn-group">
           <button class="btn btn-success" type="submit"
                   [disabled]="f.invalid">{{editMode ? 'Update' : 'Add'}}</button>
-          <button class="btn btn-danger" type="button">Delete</button>
+          <button class="btn btn-danger" type="button" (click)="onDelete()">Delete</button>
           <button class="btn btn-primary" type="button" (click)="resetForm()">Clear</button>
         </div>
       </div>
