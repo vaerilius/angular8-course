@@ -10,6 +10,9 @@ export class ShoppingListService {
     new Ingredient('Apples', 5),
     new Ingredient('Banana', 3)
   ];
+  getIngredient(index: number) {
+    return this.ingredients[index];
+  }
 
   addIngredient(ingredient: Ingredient) {
     this.ingredients.push(ingredient);
