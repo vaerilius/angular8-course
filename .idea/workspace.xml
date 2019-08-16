@@ -2,39 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/http-01-start/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http-01-start/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http-01-start/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http-01-start/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http-01-start/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http-01-start/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http-01-start/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http-01-start/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http-01-start/how-to-use.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http-01-start/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http-01-start/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http-01-start/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http-01-start/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http-01-start/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http-01-start/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http-01-start/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http-01-start/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http-01-start/src/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http-01-start/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http-01-start/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http-01-start/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http-01-start/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http-01-start/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http-01-start/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http-01-start/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http-01-start/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http-01-start/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http-01-start/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http-01-start/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http-01-start/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http-01-start/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http-01-start/tslint.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/http-01-start/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/http-01-start/src/app/app.component.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -170,7 +139,7 @@
       <workItem from="1565854700136" duration="3535000" />
       <workItem from="1565929900698" duration="7465000" />
       <workItem from="1565955197564" duration="1346000" />
-      <workItem from="1565965814049" duration="7043000" />
+      <workItem from="1565965814049" duration="7424000" />
     </task>
     <task id="LOCAL-00001" summary="directives">
       <created>1564420895177</created>
@@ -305,7 +274,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565970951700</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="HTML request">
+      <created>1565976030610</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1565976030610</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -358,6 +334,7 @@
     <MESSAGE value="Bad behavior" />
     <MESSAGE value="&quot;async&quot; Pipe" />
     <MESSAGE value="Assignment 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assignment 8" />
+    <MESSAGE value="HTML request" />
+    <option name="LAST_COMMIT_MESSAGE" value="HTML request" />
   </component>
 </project>
