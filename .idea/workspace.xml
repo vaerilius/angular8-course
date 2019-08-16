@@ -2,10 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pipes-start/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipes-start/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipes-start/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipes-start/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipes-start/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipes-start/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipes-start/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipes-start/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipes-start/how-to-use.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipes-start/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipes-start/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipes-start/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipes-start/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipes-start/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipes-start/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipes-start/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipes-start/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipes-start/src/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipes-start/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipes-start/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipes-start/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipes-start/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipes-start/src/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipes-start/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipes-start/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipes-start/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipes-start/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipes-start/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipes-start/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipes-start/src/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipes-start/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipes-start/tslint.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/app/recipes/recipe-edit/recipe-edit.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/recipes/recipe-edit/recipe-edit.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/app/recipes/recipe-edit/recipe-edit.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/recipes/recipe-edit/recipe-edit.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/recipes/recipe-list/recipe-list.component.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +73,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.TypeScript" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
     <property name="ts.external.directory.path" value="C:\Users\Timo\Documents\Angular\angular8-course\forms-reactive-assignment-start\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
@@ -136,7 +165,7 @@
       <workItem from="1565760383533" duration="13875000" />
       <workItem from="1565845464565" duration="7741000" />
       <workItem from="1565854700136" duration="3535000" />
-      <workItem from="1565929900698" duration="5406000" />
+      <workItem from="1565929900698" duration="7069000" />
     </task>
     <task id="LOCAL-00001" summary="directives">
       <created>1564420895177</created>
