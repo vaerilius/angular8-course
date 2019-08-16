@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pipes-start/src/app/filter.pipe.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pipes-start/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/pipes-start/src/app/app.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pipes-start/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/pipes-start/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pipes-start/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/pipes-start/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pipes-start/src/app/filter.pipe.ts" beforeDir="false" afterPath="$PROJECT_DIR$/pipes-start/src/app/filter.pipe.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -142,7 +141,7 @@
       <workItem from="1565854700136" duration="3535000" />
       <workItem from="1565929900698" duration="7465000" />
       <workItem from="1565955197564" duration="1346000" />
-      <workItem from="1565965814049" duration="2097000" />
+      <workItem from="1565965814049" duration="2447000" />
     </task>
     <task id="LOCAL-00001" summary="directives">
       <created>1564420895177</created>
@@ -249,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565967242120</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Creating a Filter Pipe">
+      <created>1565967947001</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1565967947001</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -298,6 +304,7 @@
     <MESSAGE value=" Chaining Multiple Pipes" />
     <MESSAGE value=" Creating a Custom Pipe" />
     <MESSAGE value="Parametrizing a Custom Pipe" />
-    <option name="LAST_COMMIT_MESSAGE" value="Parametrizing a Custom Pipe" />
+    <MESSAGE value="Creating a Filter Pipe" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating a Filter Pipe" />
   </component>
 </project>
