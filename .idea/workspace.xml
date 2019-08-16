@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
+    <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="Using Pipes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pipes-start/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/pipes-start/src/app/app.component.html" afterDir="false" />
     </list>
@@ -139,6 +139,7 @@
       <workItem from="1565854700136" duration="3535000" />
       <workItem from="1565929900698" duration="7465000" />
       <workItem from="1565955197564" duration="1346000" />
+      <workItem from="1565965814049" duration="550000" />
     </task>
     <task id="LOCAL-00001" summary="directives">
       <created>1564420895177</created>
@@ -203,7 +204,21 @@
       <option name="project" value="LOCAL" />
       <updated>1565937332706</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Using Pipes">
+      <created>1565965984021</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1565965984022</updated>
+    </task>
+    <task id="LOCAL-00011" summary=" Parametrizing Pipes">
+      <created>1565966142736</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1565966142736</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,6 +262,8 @@
     <MESSAGE value="TD: Outputting Validation&#10;Error Messages" />
     <MESSAGE value="Basic reactive form" />
     <MESSAGE value="Pipes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pipes" />
+    <MESSAGE value="Using Pipes" />
+    <MESSAGE value=" Parametrizing Pipes" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Parametrizing Pipes" />
   </component>
 </project>
