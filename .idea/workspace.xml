@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/http-01-start/src/app/posts.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/http-01-start/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/http-01-start/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/http-01-start/src/app/posts.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/http-01-start/src/app/posts.service.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -145,7 +145,7 @@
       <workItem from="1566038270244" duration="658000" />
       <workItem from="1566041684966" duration="1448000" />
       <workItem from="1566063442431" duration="47000" />
-      <workItem from="1566108959791" duration="1879000" />
+      <workItem from="1566108959791" duration="2551000" />
     </task>
     <task id="LOCAL-00001" summary="directives">
       <created>1564420895177</created>
@@ -322,7 +322,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566110205119</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Using a Service for Http Requests">
+      <created>1566111073268</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1566111073268</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -382,6 +389,7 @@
     <MESSAGE value=" Using Types with the HttpClient" />
     <MESSAGE value="Outputting Posts" />
     <MESSAGE value=" Showing a Loading Indicator (or alternative add  a spinner)" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Showing a Loading Indicator (or alternative add  a spinner)" />
+    <MESSAGE value="Using a Service for Http Requests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Using a Service for Http Requests" />
   </component>
 </project>
