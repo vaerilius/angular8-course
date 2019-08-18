@@ -145,7 +145,7 @@
       <workItem from="1566038270244" duration="658000" />
       <workItem from="1566041684966" duration="1448000" />
       <workItem from="1566063442431" duration="47000" />
-      <workItem from="1566108959791" duration="950000" />
+      <workItem from="1566108959791" duration="1125000" />
     </task>
     <task id="LOCAL-00001" summary="directives">
       <created>1564420895177</created>
@@ -308,7 +308,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566109651391</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Outputting Posts">
+      <created>1566109933860</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1566109933860</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -366,6 +373,7 @@
     <MESSAGE value="GETting Data" />
     <MESSAGE value=" Using RxJS Operators to Transform Response Data" />
     <MESSAGE value=" Using Types with the HttpClient" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Using Types with the HttpClient" />
+    <MESSAGE value="Outputting Posts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Outputting Posts" />
   </component>
 </project>
