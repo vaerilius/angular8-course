@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/http-01-start/src/app/post.model.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/http-01-start/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/http-01-start/src/app/app.component.ts" afterDir="false" />
     </list>
@@ -38,7 +39,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="js.linters.configure.manually.selectedtslint" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/project/NodeJS/expressWeatherApp" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/part1" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
@@ -139,7 +140,12 @@
       <workItem from="1565854700136" duration="3535000" />
       <workItem from="1565929900698" duration="7465000" />
       <workItem from="1565955197564" duration="1346000" />
-      <workItem from="1565965814049" duration="8067000" />
+      <workItem from="1565965814049" duration="8169000" />
+      <workItem from="1566038037430" duration="219000" />
+      <workItem from="1566038270244" duration="658000" />
+      <workItem from="1566041684966" duration="1448000" />
+      <workItem from="1566063442431" duration="47000" />
+      <workItem from="1566108959791" duration="649000" />
     </task>
     <task id="LOCAL-00001" summary="directives">
       <created>1564420895177</created>
@@ -288,7 +294,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565976355475</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary=" Using RxJS Operators to Transform Response Data">
+      <created>1565976877951</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1565976877951</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -323,6 +336,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="directives" />
     <MESSAGE value="Submitting and Using the Form" />
@@ -343,6 +357,7 @@
     <MESSAGE value="Assignment 8" />
     <MESSAGE value="HTML request" />
     <MESSAGE value="GETting Data" />
-    <option name="LAST_COMMIT_MESSAGE" value="GETting Data" />
+    <MESSAGE value=" Using RxJS Operators to Transform Response Data" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Using RxJS Operators to Transform Response Data" />
   </component>
 </project>
