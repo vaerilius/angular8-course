@@ -18,14 +18,14 @@ export class AppComponent implements OnInit {
 
   ngOnInit() {
     this.isFetching = true;
-  this.postsService.fetchPosts().subscribe(posts => {
-    this.isFetching = false;
-    this.loadedPosts = posts;
-  });
+    this.postsService.fetchPosts().subscribe(posts => {
+      this.isFetching = false;
+      this.loadedPosts = posts;
+    });
   }
 
   onCreatePost(postData: { title: string; content: string }) {
-this.postsService.createAndStorePost(postData);
+    this.postsService.createAndStorePost(postData);
   }
 
   onFetchPosts() {
@@ -37,7 +37,12 @@ this.postsService.createAndStorePost(postData);
   }
 
   onClearPosts() {
-    // Send Http request
+    this.isFetching = true;
+    this.postsService.clearPosts().subscribe(() => {
+      this.isFetching = false;
+      this.loadedPosts = [];
+    });
+
   }
 
 }

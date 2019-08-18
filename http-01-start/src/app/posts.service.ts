@@ -7,12 +7,13 @@ import {map} from 'rxjs/operators';
 
 export class PostsService {
 
-  constructor(private http: HttpClient) {}
+  constructor(private http: HttpClient) {
+  }
 
-  createAndStorePost(post: Post){
+  createAndStorePost(post: Post) {
     const postData: Post = post;
 
-    this.http.post< {[key: string]: Post}>(
+    this.http.post<{ [key: string]: Post }>(
       'https://ng-complete-guide-b5dcc.firebaseio.com/posts.json',
       postData).subscribe(data => {
       console.log(data);
@@ -21,7 +22,7 @@ export class PostsService {
   }
 
   fetchPosts() {
-    return  this.http.get< {[key: string]: Post}>('https://ng-complete-guide-b5dcc.firebaseio.com/posts.json')
+    return this.http.get<{ [key: string]: Post }>('https://ng-complete-guide-b5dcc.firebaseio.com/posts.json')
       .pipe(map((responseData) => {
         const postArray: Post[] = [];
         for (let responseDataKey in responseData) {
@@ -34,4 +35,7 @@ export class PostsService {
 
   }
 
+  clearPosts() {
+    return this.http.delete('https://ng-complete-guide-b5dcc.firebaseio.com/posts.json');
+  }
 }
