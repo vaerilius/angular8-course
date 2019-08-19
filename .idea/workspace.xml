@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/http-01-start/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/http-01-start/src/app/app.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/http-01-start/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/http-01-start/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/http-01-start/src/app/posts.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/http-01-start/src/app/posts.service.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -146,7 +145,8 @@
       <workItem from="1566038270244" duration="658000" />
       <workItem from="1566041684966" duration="1448000" />
       <workItem from="1566063442431" duration="47000" />
-      <workItem from="1566108959791" duration="3853000" />
+      <workItem from="1566108959791" duration="4632000" />
+      <workItem from="1566198255980" duration="1120000" />
     </task>
     <task id="LOCAL-00001" summary="directives">
       <created>1564420895177</created>
@@ -337,7 +337,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566111518972</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Sending a DELETE Request">
+      <created>1566112895684</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1566112895684</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -374,7 +381,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="directives" />
     <MESSAGE value="Submitting and Using the Form" />
     <MESSAGE value="Accessing the Form with @ViewChild" />
     <MESSAGE value="Adding Validation to check User Input" />
@@ -399,6 +405,8 @@
     <MESSAGE value=" Showing a Loading Indicator (or alternative add  a spinner)" />
     <MESSAGE value="Using a Service for Http Requests" />
     <MESSAGE value="Services &amp; Components Working Together" />
-    <option name="LAST_COMMIT_MESSAGE" value="Services &amp; Components Working Together" />
+    <MESSAGE value="Sending a DELETE Request" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sending a DELETE Request" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
