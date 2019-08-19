@@ -1,7 +1,7 @@
 import {Injectable} from '@angular/core';
 import {Post} from './post.model';
-import {HttpClient, HttpHeaders, HttpParams} from '@angular/common/http';
-import {map, catchError} from 'rxjs/operators';
+import {HttpClient, HttpEventType, HttpHeaders, HttpParams} from '@angular/common/http';
+import {map, catchError, tap} from 'rxjs/operators';
 import {Subject, throwError} from 'rxjs';
 
 @Injectable({providedIn: 'root'})
@@ -17,7 +17,8 @@ export class PostsService {
 
     this.http.post<{ [key: string]: Post }>(
       'https://ng-complete-guide-b5dcc.firebaseio.com/posts.json',
-      postData).subscribe(data => {
+      postData, {observe: 'response'}
+    ).subscribe(data => {
       console.log(data);
     }, error1 => {
       this.error.next(error1.message);
@@ -36,13 +37,13 @@ export class PostsService {
       })
       .pipe(
         map((responseData) => {
-        const postArray: Post[] = [];
-        for (let responseDataKey in responseData) {
-          if (responseData.hasOwnProperty(responseDataKey)) {
-            postArray.push({...responseData[responseDataKey], id: responseDataKey})
+          const postArray: Post[] = [];
+          for (let responseDataKey in responseData) {
+            if (responseData.hasOwnProperty(responseDataKey)) {
+              postArray.push({...responseData[responseDataKey], id: responseDataKey})
+            }
           }
-        }
-        return postArray;
+          return postArray;
         }),
         catchError(err => {
           return throwError(err);
@@ -50,6 +51,17 @@ export class PostsService {
   }
 
   clearPosts() {
-    return this.http.delete('https://ng-complete-guide-b5dcc.firebaseio.com/posts.json');
+    return this.http.delete('https://ng-complete-guide-b5dcc.firebaseio.com/posts.json',
+      {
+        observe: 'events'
+      }).pipe(tap(e => {
+      if (e.type === HttpEventType.Sent) {
+        //..
+      }
+      if (e.type === HttpEventType.Response) {
+        console.log(e.body);
+      }
+
+    }));
   }
 }
