@@ -145,7 +145,7 @@
       <workItem from="1566041684966" duration="1448000" />
       <workItem from="1566063442431" duration="47000" />
       <workItem from="1566108959791" duration="4632000" />
-      <workItem from="1566198255980" duration="4298000" />
+      <workItem from="1566198255980" duration="4562000" />
     </task>
     <task id="LOCAL-00001" summary="directives">
       <created>1564420895177</created>
@@ -385,7 +385,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566202044896</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Observing Different Types of Responses">
+      <created>1566203022762</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1566203022762</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -422,7 +429,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Pipes" />
     <MESSAGE value="Using Pipes" />
     <MESSAGE value=" Parametrizing Pipes" />
     <MESSAGE value=" Chaining Multiple Pipes" />
@@ -447,7 +453,8 @@
     <MESSAGE value="Error Handling &amp; UX" />
     <MESSAGE value="Setting Headers" />
     <MESSAGE value="Adding Query Params" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding Query Params" />
+    <MESSAGE value="Observing Different Types of Responses" />
+    <option name="LAST_COMMIT_MESSAGE" value="Observing Different Types of Responses" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
