@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/http-01-start/src/app/auth-interceptor.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/http-01-start/src/app/posts.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/http-01-start/src/app/posts.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/http-01-start/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/http-01-start/src/app/app.module.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -145,7 +146,7 @@
       <workItem from="1566041684966" duration="1448000" />
       <workItem from="1566063442431" duration="47000" />
       <workItem from="1566108959791" duration="4632000" />
-      <workItem from="1566198255980" duration="4562000" />
+      <workItem from="1566198255980" duration="5332000" />
     </task>
     <task id="LOCAL-00001" summary="directives">
       <created>1564420895177</created>
@@ -392,7 +393,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566203022762</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary=" Changing the Response Body Type">
+      <created>1566203268045</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1566203268045</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -429,7 +437,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Using Pipes" />
     <MESSAGE value=" Parametrizing Pipes" />
     <MESSAGE value=" Chaining Multiple Pipes" />
     <MESSAGE value=" Creating a Custom Pipe" />
@@ -454,7 +461,8 @@
     <MESSAGE value="Setting Headers" />
     <MESSAGE value="Adding Query Params" />
     <MESSAGE value="Observing Different Types of Responses" />
-    <option name="LAST_COMMIT_MESSAGE" value="Observing Different Types of Responses" />
+    <MESSAGE value=" Changing the Response Body Type" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Changing the Response Body Type" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
