@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/http-01-start/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/http-01-start/src/app/app.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/http-01-start/src/app/posts.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/http-01-start/src/app/posts.service.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -146,7 +145,7 @@
       <workItem from="1566041684966" duration="1448000" />
       <workItem from="1566063442431" duration="47000" />
       <workItem from="1566108959791" duration="4632000" />
-      <workItem from="1566198255980" duration="1517000" />
+      <workItem from="1566198255980" duration="1745000" />
     </task>
     <task id="LOCAL-00001" summary="directives">
       <created>1564420895177</created>
@@ -351,7 +350,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566199433829</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary=" Using Subjects for Error Handling">
+      <created>1566199812532</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1566199812532</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -388,7 +394,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Accessing the Form with @ViewChild" />
     <MESSAGE value="Adding Validation to check User Input" />
     <MESSAGE value="Built-in Validators &amp; Using HTML5 Validation" />
     <MESSAGE value="TD: Outputting Validation&#10;Error Messages" />
@@ -413,7 +418,8 @@
     <MESSAGE value="Services &amp; Components Working Together" />
     <MESSAGE value="Sending a DELETE Request" />
     <MESSAGE value=" Handling Errors" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Handling Errors" />
+    <MESSAGE value=" Using Subjects for Error Handling" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Using Subjects for Error Handling" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
