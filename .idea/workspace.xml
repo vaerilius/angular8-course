@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/http-01-start/src/app/logging-interceptor.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/src/app/shared/data-storage.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/http-01-start/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/http-01-start/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/http-01-start/src/app/auth-interceptor.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/http-01-start/src/app/auth-interceptor.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/app.module.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -147,7 +146,9 @@
       <workItem from="1566041684966" duration="1448000" />
       <workItem from="1566063442431" duration="47000" />
       <workItem from="1566108959791" duration="4632000" />
-      <workItem from="1566198255980" duration="6390000" />
+      <workItem from="1566198255980" duration="6897000" />
+      <workItem from="1566208984665" duration="150000" />
+      <workItem from="1566280093723" duration="1153000" />
     </task>
     <task id="LOCAL-00001" summary="directives">
       <created>1564420895177</created>
@@ -422,7 +423,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566204589814</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary=" Multiple Interceptors">
+      <created>1566205250553</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1566205250553</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -459,7 +467,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Parametrizing a Custom Pipe" />
     <MESSAGE value="Creating a Filter Pipe" />
     <MESSAGE value="Bad behavior" />
     <MESSAGE value="&quot;async&quot; Pipe" />
@@ -484,7 +491,8 @@
     <MESSAGE value=" Introducing Interceptors" />
     <MESSAGE value="Manipulating Request Objects" />
     <MESSAGE value="Response Interceptors" />
-    <option name="LAST_COMMIT_MESSAGE" value="Response Interceptors" />
+    <MESSAGE value=" Multiple Interceptors" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Multiple Interceptors" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
