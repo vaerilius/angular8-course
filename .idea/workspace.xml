@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/project/src/app/shared/loading-spinners/loading-spinner.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/src/app/shared/loading-spinners/loading-spinner.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/app/auth/auth.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/auth/auth.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/src/app/auth/auth.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/auth/auth.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/auth/auth.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/auth/auth.service.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -157,14 +154,7 @@
       <workItem from="1566285955978" duration="105000" />
       <workItem from="1566287120755" duration="4361000" />
       <workItem from="1566297332876" duration="50000" />
-      <workItem from="1566448592957" duration="7902000" />
-    </task>
-    <task id="LOCAL-00003" summary="Accessing the Form with @ViewChild">
-      <created>1565607557028</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1565607557028</updated>
+      <workItem from="1566448592957" duration="8835000" />
     </task>
     <task id="LOCAL-00004" summary="Adding Validation to check User Input">
       <created>1565608103326</created>
@@ -502,7 +492,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566454946431</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary=". Adding a Loading Spinner &amp; Error Handling Logic">
+      <created>1566456737203</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1566456737203</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -539,7 +536,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Using a Service for Http Requests" />
     <MESSAGE value="Services &amp; Components Working Together" />
     <MESSAGE value="Sending a DELETE Request" />
     <MESSAGE value=" Handling Errors" />
@@ -564,7 +560,8 @@
     <MESSAGE value="Handling Form Input" />
     <MESSAGE value="Preparing the Signup Request" />
     <MESSAGE value="Sending the Signup Request" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sending the Signup Request" />
+    <MESSAGE value=". Adding a Loading Spinner &amp; Error Handling Logic" />
+    <option name="LAST_COMMIT_MESSAGE" value=". Adding a Loading Spinner &amp; Error Handling Logic" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
