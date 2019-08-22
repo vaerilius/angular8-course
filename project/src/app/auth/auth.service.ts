@@ -1,5 +1,5 @@
 import {Injectable} from '@angular/core';
-import {HttpClient} from '@angular/common/http';
+import {HttpClient, HttpErrorResponse} from '@angular/common/http';
 import {catchError} from 'rxjs/operators';
 import {throwError} from 'rxjs';
 
@@ -28,17 +28,7 @@ export class AuthService {
         returnSecureToken: true
       }
     )
-      .pipe(catchError(errResponse => {
-        let errMessage = 'An unknown error occurred';
-        if (!errResponse.error || !errResponse.error.error) {
-          return throwError(errMessage)
-        }
-        switch (errResponse.error.error.message) {
-          case 'EMAIL_EXISTS':
-            errMessage = 'this email exists already'
-        }
-        return throwError(errMessage)
-      }));
+      .pipe(catchError(this.handleError));
   }
 
   login(email: string, password: string) {
@@ -49,17 +39,31 @@ export class AuthService {
         returnSecureToken: true
       }
     )
-      .pipe(catchError(errResponse => {
-        let errMessage = 'An unknown error occurred';
-        if (!errResponse.error || !errResponse.error.error) {
-          return throwError(errMessage)
-        }
-        switch (errResponse.error.error.message) {
-          case 'EMAIL_EXISTS':
-            errMessage = 'this email exists already'
-        }
-        return throwError(errMessage)
-      }));
+      .pipe(
+        catchError(this.handleError)
+      );
+  }
+
+  private handleError(errResponse: HttpErrorResponse) {
+    let errMessage = 'An unknown error occurred';
+    if (!errResponse.error || !errResponse.error.error) {
+      return throwError(errMessage)
+    }
+    switch (errResponse.error.error.message) {
+      case 'EMAIL_EXISTS':
+        errMessage = 'EMAIL_EXISTS';
+        break;
+      case 'EMAIL_NOT_FOUND':
+        errMessage = 'EMAIL_NOT_FOUND';
+        break;
+      case 'INVALID_PASSWORD':
+        errMessage = 'INVALID_PASSWORD';
+        break;
+      case 'USER_DISABLED':
+        errMessage = 'USER_DISABLED';
+        break;
+    }
+    return throwError(errMessage)
   }
 
 

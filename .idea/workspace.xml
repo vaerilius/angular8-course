@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/app/auth/auth.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/auth/auth.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/src/app/auth/auth.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/auth/auth.service.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -154,14 +153,7 @@
       <workItem from="1566285955978" duration="105000" />
       <workItem from="1566287120755" duration="4361000" />
       <workItem from="1566297332876" duration="50000" />
-      <workItem from="1566448592957" duration="9725000" />
-    </task>
-    <task id="LOCAL-00005" summary="Built-in Validators &amp; Using HTML5 Validation">
-      <created>1565608809316</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1565608809316</updated>
+      <workItem from="1566448592957" duration="11308000" />
     </task>
     <task id="LOCAL-00006" summary="TD: Outputting Validation&#10;Error Messages">
       <created>1565609124327</created>
@@ -499,7 +491,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566457663575</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary=" Sending Login Requests">
+      <created>1566458629354</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1566458629354</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -536,7 +535,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Sending a DELETE Request" />
     <MESSAGE value=" Handling Errors" />
     <MESSAGE value=" Using Subjects for Error Handling" />
     <MESSAGE value="Using the catchError Operator" />
@@ -561,7 +559,8 @@
     <MESSAGE value="Sending the Signup Request" />
     <MESSAGE value=". Adding a Loading Spinner &amp; Error Handling Logic" />
     <MESSAGE value=" Improving Error Handling" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Improving Error Handling" />
+    <MESSAGE value=" Sending Login Requests" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Sending Login Requests" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
