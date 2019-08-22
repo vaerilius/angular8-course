@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/project/src/app/auth/user.model.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/src/app/auth/auth.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/auth/auth.service.ts" afterDir="false" />
     </list>
@@ -18,8 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="TypeScript File" />
         <option value="CSS File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -153,14 +154,8 @@
       <workItem from="1566285955978" duration="105000" />
       <workItem from="1566287120755" duration="4361000" />
       <workItem from="1566297332876" duration="50000" />
-      <workItem from="1566448592957" duration="11308000" />
-    </task>
-    <task id="LOCAL-00006" summary="TD: Outputting Validation&#10;Error Messages">
-      <created>1565609124327</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1565609124327</updated>
+      <workItem from="1566448592957" duration="12551000" />
+      <workItem from="1566467994464" duration="1620000" />
     </task>
     <task id="LOCAL-00007" summary="Basic reactive form">
       <created>1565760796064</created>
@@ -498,7 +493,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566458629354</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Login Error Handling">
+      <created>1566460381197</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1566460381197</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -535,7 +537,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value=" Handling Errors" />
     <MESSAGE value=" Using Subjects for Error Handling" />
     <MESSAGE value="Using the catchError Operator" />
     <MESSAGE value="Error Handling &amp; UX" />
@@ -560,7 +561,8 @@
     <MESSAGE value=". Adding a Loading Spinner &amp; Error Handling Logic" />
     <MESSAGE value=" Improving Error Handling" />
     <MESSAGE value=" Sending Login Requests" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Sending Login Requests" />
+    <MESSAGE value="Login Error Handling" />
+    <option name="LAST_COMMIT_MESSAGE" value="Login Error Handling" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
