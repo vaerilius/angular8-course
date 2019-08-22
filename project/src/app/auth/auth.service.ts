@@ -3,13 +3,14 @@ import {HttpClient} from '@angular/common/http';
 import {catchError} from 'rxjs/operators';
 import {throwError} from 'rxjs';
 
-interface AuthResponseData {
+export interface AuthResponseData {
+  kind: string,
   idToken: string,
   email: string,
   refreshToken: string,
   expiresIn: string,
-  localId: string
-
+  localId: string,
+  registered?: boolean
 
 }
 
@@ -39,4 +40,27 @@ export class AuthService {
         return throwError(errMessage)
       }));
   }
+
+  login(email: string, password: string) {
+    return this.http.post<AuthResponseData>('https://identitytoolkit.googleapis.com/v1/accounts:signInWithPassword?key=AIzaSyCy85lcn8JFrV4u1I36sreqfyeeyiVJI2Y',
+      {
+        email: email,
+        password: password,
+        returnSecureToken: true
+      }
+    )
+      .pipe(catchError(errResponse => {
+        let errMessage = 'An unknown error occurred';
+        if (!errResponse.error || !errResponse.error.error) {
+          return throwError(errMessage)
+        }
+        switch (errResponse.error.error.message) {
+          case 'EMAIL_EXISTS':
+            errMessage = 'this email exists already'
+        }
+        return throwError(errMessage)
+      }));
+  }
+
+
 }

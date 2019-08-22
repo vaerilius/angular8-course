@@ -154,14 +154,7 @@
       <workItem from="1566285955978" duration="105000" />
       <workItem from="1566287120755" duration="4361000" />
       <workItem from="1566297332876" duration="50000" />
-      <workItem from="1566448592957" duration="8835000" />
-    </task>
-    <task id="LOCAL-00004" summary="Adding Validation to check User Input">
-      <created>1565608103326</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1565608103326</updated>
+      <workItem from="1566448592957" duration="9725000" />
     </task>
     <task id="LOCAL-00005" summary="Built-in Validators &amp; Using HTML5 Validation">
       <created>1565608809316</created>
@@ -499,7 +492,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566456737203</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary=" Improving Error Handling">
+      <created>1566457663575</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1566457663575</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -536,7 +536,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Services &amp; Components Working Together" />
     <MESSAGE value="Sending a DELETE Request" />
     <MESSAGE value=" Handling Errors" />
     <MESSAGE value=" Using Subjects for Error Handling" />
@@ -561,7 +560,8 @@
     <MESSAGE value="Preparing the Signup Request" />
     <MESSAGE value="Sending the Signup Request" />
     <MESSAGE value=". Adding a Loading Spinner &amp; Error Handling Logic" />
-    <option name="LAST_COMMIT_MESSAGE" value=". Adding a Loading Spinner &amp; Error Handling Logic" />
+    <MESSAGE value=" Improving Error Handling" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Improving Error Handling" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
