@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/project/src/app/auth/auth.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/src/app/auth/auth.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/app-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/app/header/header.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/header/header.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/auth/auth.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/auth/auth.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/auth/auth.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/auth/auth.component.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -155,7 +152,7 @@
       <workItem from="1566285955978" duration="105000" />
       <workItem from="1566287120755" duration="4361000" />
       <workItem from="1566297332876" duration="50000" />
-      <workItem from="1566448592957" duration="1589000" />
+      <workItem from="1566448592957" duration="2127000" />
     </task>
     <task id="LOCAL-00001" summary="directives">
       <created>1564420895177</created>
@@ -472,7 +469,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566285097926</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Adding the Auth Page">
+      <created>1566450261067</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1566450261068</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -509,7 +513,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="GETting Data" />
     <MESSAGE value=" Using RxJS Operators to Transform Response Data" />
     <MESSAGE value=" Using Types with the HttpClient" />
     <MESSAGE value="Outputting Posts" />
@@ -534,7 +537,8 @@
     <MESSAGE value=" Fetching Recipes" />
     <MESSAGE value="Transforming Response Data" />
     <MESSAGE value=" Resolving Data Before Loading" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Resolving Data Before Loading" />
+    <MESSAGE value="Adding the Auth Page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding the Auth Page" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
