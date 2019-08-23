@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/app.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/src/app/auth/auth.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/auth/auth.service.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -158,14 +156,7 @@
       <workItem from="1566467994464" duration="1893000" />
       <workItem from="1566470636688" duration="216000" />
       <workItem from="1566470864624" duration="20000" />
-      <workItem from="1566545590781" duration="6994000" />
-    </task>
-    <task id="LOCAL-00012" summary=" Chaining Multiple Pipes">
-      <created>1565966426298</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1565966426298</updated>
+      <workItem from="1566545590781" duration="7281000" />
     </task>
     <task id="LOCAL-00013" summary=" Chaining Multiple Pipes">
       <created>1565966436904</created>
@@ -503,7 +494,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566552951373</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Adding Auto-Login">
+      <created>1566553993326</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1566553993326</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -540,7 +538,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Observing Different Types of Responses" />
     <MESSAGE value=" Changing the Response Body Type" />
     <MESSAGE value=" Introducing Interceptors" />
     <MESSAGE value="Manipulating Request Objects" />
@@ -565,7 +562,8 @@
     <MESSAGE value=" Adding the Token to Outgoing Requests" />
     <MESSAGE value="Attaching the Token with an Interceptor" />
     <MESSAGE value=" Adding Logout" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Adding Logout" />
+    <MESSAGE value="Adding Auto-Login" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Auto-Login" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
