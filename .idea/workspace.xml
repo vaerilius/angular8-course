@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/project/src/app/auth/auth-interceptor.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/app/auth/auth.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/auth/auth.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/app.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/src/app/shared/data-storage.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/shared/data-storage.service.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -158,14 +159,7 @@
       <workItem from="1566467994464" duration="1893000" />
       <workItem from="1566470636688" duration="216000" />
       <workItem from="1566470864624" duration="20000" />
-      <workItem from="1566545590781" duration="2983000" />
-    </task>
-    <task id="LOCAL-00009" summary="Pipes">
-      <created>1565937332706</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1565937332706</updated>
+      <workItem from="1566545590781" duration="5250000" />
     </task>
     <task id="LOCAL-00010" summary="Using Pipes">
       <created>1565965984021</created>
@@ -503,7 +497,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566547405923</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary=" Adding the Token to Outgoing Requests">
+      <created>1566548723039</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1566548723039</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -540,7 +541,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Error Handling &amp; UX" />
     <MESSAGE value="Setting Headers" />
     <MESSAGE value="Adding Query Params" />
     <MESSAGE value="Observing Different Types of Responses" />
@@ -565,7 +565,8 @@
     <MESSAGE value="Login Error Handling" />
     <MESSAGE value=" Creating &amp; Storing the User Data" />
     <MESSAGE value=" Reflecting the Auth State in the UI" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Reflecting the Auth State in the UI" />
+    <MESSAGE value=" Adding the Token to Outgoing Requests" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Adding the Token to Outgoing Requests" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
