@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/src/app/auth/auth.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/auth/auth.service.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -156,14 +157,8 @@
       <workItem from="1566467994464" duration="1893000" />
       <workItem from="1566470636688" duration="216000" />
       <workItem from="1566470864624" duration="20000" />
-      <workItem from="1566545590781" duration="7281000" />
-    </task>
-    <task id="LOCAL-00013" summary=" Chaining Multiple Pipes">
-      <created>1565966436904</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1565966436904</updated>
+      <workItem from="1566545590781" duration="7503000" />
+      <workItem from="1566554470676" duration="1178000" />
     </task>
     <task id="LOCAL-00014" summary=" Creating a Custom Pipe">
       <created>1565966999559</created>
@@ -501,7 +496,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566553993326</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Adding Auto-Login">
+      <created>1566554224382</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1566554224382</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
