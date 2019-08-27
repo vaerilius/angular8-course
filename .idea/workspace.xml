@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/project/src/app/shared/alert/alert.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/src/app/shared/alert/alert.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/src/app/shared/alert/alert.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/app.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/src/app/auth/auth.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/auth/auth.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/auth/auth.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/auth/auth.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/shared/alert/alert.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/shared/alert/alert.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/shared/alert/alert.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/shared/alert/alert.component.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -164,14 +163,7 @@
       <workItem from="1566545590781" duration="7503000" />
       <workItem from="1566554470676" duration="2897000" />
       <workItem from="1566878588808" duration="1180000" />
-      <workItem from="1566883054211" duration="991000" />
-    </task>
-    <task id="LOCAL-00016" summary="Creating a Filter Pipe">
-      <created>1565967947001</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1565967947001</updated>
+      <workItem from="1566883054211" duration="1573000" />
     </task>
     <task id="LOCAL-00017" summary="Bad behavior">
       <created>1565968338241</created>
@@ -509,7 +501,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566556956269</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary=" Adding an Alert Modal Component">
+      <created>1566884133965</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1566884133965</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -546,7 +545,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Manipulating Request Objects" />
     <MESSAGE value="Response Interceptors" />
     <MESSAGE value=" Multiple Interceptors" />
     <MESSAGE value=" Setting Up the DataStorage Service" />
@@ -571,7 +569,8 @@
     <MESSAGE value="Adding Auto-Login" />
     <MESSAGE value=" Adding Auto-Logout" />
     <MESSAGE value=" Adding an Auth Guard" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Adding an Auth Guard" />
+    <MESSAGE value=" Adding an Alert Modal Component" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Adding an Alert Modal Component" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
