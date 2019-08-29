@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/project/src/app/recipes/recipes-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/src/app/shopping-list/shopping-list.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/app-routing.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/app/recipes/recipes.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/recipes/recipes.module.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +50,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="ts.external.directory.path" value="C:\Users\Timo\Documents\Angular\angular8-course\services-start\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
@@ -162,28 +164,8 @@
       <workItem from="1566554470676" duration="2897000" />
       <workItem from="1566878588808" duration="1180000" />
       <workItem from="1566883054211" duration="6480000" />
-      <workItem from="1567054615270" duration="1634000" />
-    </task>
-    <task id="LOCAL-00023" summary=" Using Types with the HttpClient">
-      <created>1566109651391</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1566109651391</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Outputting Posts">
-      <created>1566109933860</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1566109933860</updated>
-    </task>
-    <task id="LOCAL-00025" summary=" Showing a Loading Indicator (or alternative add  a spinner)">
-      <created>1566110205119</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1566110205119</updated>
+      <workItem from="1567054615270" duration="2652000" />
+      <workItem from="1567057284253" duration="2136000" />
     </task>
     <task id="LOCAL-00026" summary="Using a Service for Http Requests">
       <created>1566111073268</created>
@@ -507,7 +489,28 @@
       <option name="project" value="LOCAL" />
       <updated>1567055947152</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary=". Splitting Modules Correctly">
+      <created>1567056381917</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1567056381917</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Adding Routes to Feature Modules">
+      <created>1567057037027</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1567057037027</updated>
+    </task>
+    <task id="LOCAL-00074" summary=" Component Declarations">
+      <created>1567057234464</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1567057234465</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -544,9 +547,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value=" Resolving Data Before Loading" />
-    <MESSAGE value="Adding the Auth Page" />
-    <MESSAGE value="Switching Between Auth Modes" />
     <MESSAGE value="Handling Form Input" />
     <MESSAGE value="Preparing the Signup Request" />
     <MESSAGE value="Sending the Signup Request" />
@@ -569,7 +569,10 @@
     <MESSAGE value=" Understanding entryComponents" />
     <MESSAGE value="Data Binding &amp; Event Binding" />
     <MESSAGE value=" Getting Started with Feature Modules" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Getting Started with Feature Modules" />
+    <MESSAGE value=". Splitting Modules Correctly" />
+    <MESSAGE value="Adding Routes to Feature Modules" />
+    <MESSAGE value=" Component Declarations" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Component Declarations" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
