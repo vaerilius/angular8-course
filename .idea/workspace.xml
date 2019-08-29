@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/project/src/app/auth/auth.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/src/app/core.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/src/app/logging.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/app.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/app/recipes/recipes-resolver.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/recipes/recipes-resolver.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/app/recipes/recipes-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/recipes/recipes-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/core.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/core.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/shared/shared.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/shared/shared.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/shopping-list/shopping-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/shopping-list/shopping-list.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/src/app/shopping-list/shopping-list.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/shopping-list/shopping-list.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/app/shopping-list/shopping-list.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/shopping-list/shopping-list.service.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -169,21 +168,7 @@
       <workItem from="1566878588808" duration="1180000" />
       <workItem from="1566883054211" duration="6480000" />
       <workItem from="1567054615270" duration="2652000" />
-      <workItem from="1567057284253" duration="6616000" />
-    </task>
-    <task id="LOCAL-00032" summary="Error Handling &amp; UX">
-      <created>1566200328590</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1566200328590</updated>
-    </task>
-    <task id="LOCAL-00033" summary="Setting Headers">
-      <created>1566201635848</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1566201635848</updated>
+      <workItem from="1567057284253" duration="8357000" />
     </task>
     <task id="LOCAL-00034" summary="Adding Query Params">
       <created>1566202044896</created>
@@ -514,7 +499,21 @@
       <option name="project" value="LOCAL" />
       <updated>1567064085718</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary=" Preloading Lazy-Loaded Code">
+      <created>1567064451544</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1567064451544</updated>
+    </task>
+    <task id="LOCAL-00082" summary=" Preloading Lazy-Loaded Code">
+      <created>1567064463997</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1567064463997</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -551,7 +550,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Login Error Handling" />
     <MESSAGE value=" Creating &amp; Storing the User Data" />
     <MESSAGE value=" Reflecting the Auth State in the UI" />
     <MESSAGE value=" Adding the Token to Outgoing Requests" />
@@ -576,7 +574,8 @@
     <MESSAGE value="Adding an Auth Feature Module" />
     <MESSAGE value=" 329. Implementing Lazy Loading" />
     <MESSAGE value=" More Lazy Loading" />
-    <option name="LAST_COMMIT_MESSAGE" value=" More Lazy Loading" />
+    <MESSAGE value=" Preloading Lazy-Loaded Code" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Preloading Lazy-Loaded Code" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
