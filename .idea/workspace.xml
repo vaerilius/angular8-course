@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/project/src/app/recipes/recipes.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/app/auth/auth.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/auth/auth.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/app.module.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -160,14 +161,8 @@
       <workItem from="1566545590781" duration="7503000" />
       <workItem from="1566554470676" duration="2897000" />
       <workItem from="1566878588808" duration="1180000" />
-      <workItem from="1566883054211" duration="4007000" />
-    </task>
-    <task id="LOCAL-00021" summary="GETting Data">
-      <created>1565976355475</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1565976355475</updated>
+      <workItem from="1566883054211" duration="6480000" />
+      <workItem from="1567054615270" duration="1255000" />
     </task>
     <task id="LOCAL-00022" summary=" Using RxJS Operators to Transform Response Data">
       <created>1565976877951</created>
@@ -505,7 +500,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566886320626</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="Data Binding &amp; Event Binding">
+      <created>1566887134395</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1566887134395</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -542,7 +544,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value=" Fetching Recipes" />
     <MESSAGE value="Transforming Response Data" />
     <MESSAGE value=" Resolving Data Before Loading" />
     <MESSAGE value="Adding the Auth Page" />
@@ -567,7 +568,8 @@
     <MESSAGE value=" Preparing Programmatic Creation" />
     <MESSAGE value="Creating a Component Programmatically" />
     <MESSAGE value=" Understanding entryComponents" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Understanding entryComponents" />
+    <MESSAGE value="Data Binding &amp; Event Binding" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data Binding &amp; Event Binding" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
