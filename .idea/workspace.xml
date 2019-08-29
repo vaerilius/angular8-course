@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/project/src/app/shared/shared.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/src/app/auth/auth.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/src/app/core.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/app-routing.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/app/recipes/recipes.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/recipes/recipes.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/recipes/recipes-resolver.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/recipes/recipes-resolver.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/recipes/recipes-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/recipes/recipes-routing.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/src/app/shopping-list/shopping-list.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/shopping-list/shopping-list.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/shopping-list/shopping-list.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/shopping-list/shopping-list.service.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +54,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="ts.external.directory.path" value="C:\Users\Timo\Documents\Angular\angular8-course\services-start\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
@@ -165,42 +169,7 @@
       <workItem from="1566878588808" duration="1180000" />
       <workItem from="1566883054211" duration="6480000" />
       <workItem from="1567054615270" duration="2652000" />
-      <workItem from="1567057284253" duration="2900000" />
-    </task>
-    <task id="LOCAL-00027" summary="Services &amp; Components Working Together">
-      <created>1566111518972</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1566111518972</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Sending a DELETE Request">
-      <created>1566112895684</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1566112895684</updated>
-    </task>
-    <task id="LOCAL-00029" summary=" Handling Errors">
-      <created>1566199433829</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1566199433829</updated>
-    </task>
-    <task id="LOCAL-00030" summary=" Using Subjects for Error Handling">
-      <created>1566199812532</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1566199812532</updated>
-    </task>
-    <task id="LOCAL-00031" summary="Using the catchError Operator">
-      <created>1566200057096</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1566200057096</updated>
+      <workItem from="1567057284253" duration="6616000" />
     </task>
     <task id="LOCAL-00032" summary="Error Handling &amp; UX">
       <created>1566200328590</created>
@@ -510,7 +479,42 @@
       <option name="project" value="LOCAL" />
       <updated>1567059808816</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="325. Understanding Shared Modules">
+      <created>1567060662215</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1567060662215</updated>
+    </task>
+    <task id="LOCAL-00077" summary=" Understanding the Core Module">
+      <created>1567061291704</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1567061291704</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Adding an Auth Feature Module">
+      <created>1567061787494</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1567061787494</updated>
+    </task>
+    <task id="LOCAL-00079" summary=" 329. Implementing Lazy Loading">
+      <created>1567063705441</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1567063705441</updated>
+    </task>
+    <task id="LOCAL-00080" summary=" More Lazy Loading">
+      <created>1567064085718</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1567064085718</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -547,11 +551,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Preparing the Signup Request" />
-    <MESSAGE value="Sending the Signup Request" />
-    <MESSAGE value=". Adding a Loading Spinner &amp; Error Handling Logic" />
-    <MESSAGE value=" Improving Error Handling" />
-    <MESSAGE value=" Sending Login Requests" />
     <MESSAGE value="Login Error Handling" />
     <MESSAGE value=" Creating &amp; Storing the User Data" />
     <MESSAGE value=" Reflecting the Auth State in the UI" />
@@ -572,7 +571,12 @@
     <MESSAGE value="Adding Routes to Feature Modules" />
     <MESSAGE value=" Component Declarations" />
     <MESSAGE value="The ShoppingList Feature Module" />
-    <option name="LAST_COMMIT_MESSAGE" value="The ShoppingList Feature Module" />
+    <MESSAGE value="325. Understanding Shared Modules" />
+    <MESSAGE value=" Understanding the Core Module" />
+    <MESSAGE value="Adding an Auth Feature Module" />
+    <MESSAGE value=" 329. Implementing Lazy Loading" />
+    <MESSAGE value=" More Lazy Loading" />
+    <option name="LAST_COMMIT_MESSAGE" value=" More Lazy Loading" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
