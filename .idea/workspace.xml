@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/shopping-list/shopping-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/shopping-list/shopping-list.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/shopping-list/shopping-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/shopping-list/shopping-list.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/src/app/shopping-list/store/shopping-list.reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/shopping-list/store/shopping-list.reducer.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -165,14 +166,7 @@
       <workItem from="1567054615270" duration="2652000" />
       <workItem from="1567057284253" duration="10824000" />
       <workItem from="1567070776668" duration="249000" />
-      <workItem from="1567486432634" duration="2532000" />
-    </task>
-    <task id="LOCAL-00039" summary="Response Interceptors">
-      <created>1566204589814</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1566204589814</updated>
+      <workItem from="1567486432634" duration="3249000" />
     </task>
     <task id="LOCAL-00040" summary=" Multiple Interceptors">
       <created>1566205250553</created>
@@ -510,7 +504,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567488557009</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary=" Setting Up the NgRx Store">
+      <created>1567489050579</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1567489050579</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -547,7 +548,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Adding Auto-Login" />
     <MESSAGE value=" Adding Auto-Logout" />
     <MESSAGE value=" Adding an Auth Guard" />
     <MESSAGE value=" Adding an Alert Modal Component" />
@@ -572,7 +572,8 @@
     <MESSAGE value="Getting Started with Reducers" />
     <MESSAGE value=" Adding Logic to the Reducer" />
     <MESSAGE value="Understanding &amp; Adding Actions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Understanding &amp; Adding Actions" />
+    <MESSAGE value=" Setting Up the NgRx Store" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Setting Up the NgRx Store" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
