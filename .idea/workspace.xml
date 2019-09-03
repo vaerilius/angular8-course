@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/project/src/app/shopping-list/store/shopping-list.actions.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/project/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/app/shopping-list/shopping-list.reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/shopping-list/store/shopping-list.reducer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/shopping-list/store/shopping-list.reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/shopping-list/store/shopping-list.reducer.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -166,14 +165,7 @@
       <workItem from="1567054615270" duration="2652000" />
       <workItem from="1567057284253" duration="10824000" />
       <workItem from="1567070776668" duration="249000" />
-      <workItem from="1567486432634" duration="2015000" />
-    </task>
-    <task id="LOCAL-00038" summary="Manipulating Request Objects">
-      <created>1566204306096</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1566204306096</updated>
+      <workItem from="1567486432634" duration="2532000" />
     </task>
     <task id="LOCAL-00039" summary="Response Interceptors">
       <created>1566204589814</created>
@@ -511,7 +503,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567487843069</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="Understanding &amp; Adding Actions">
+      <created>1567488557009</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1567488557009</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -548,7 +547,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value=" Adding Logout" />
     <MESSAGE value="Adding Auto-Login" />
     <MESSAGE value=" Adding Auto-Logout" />
     <MESSAGE value=" Adding an Auth Guard" />
@@ -573,7 +571,9 @@
     <MESSAGE value="Ahead-of-Time Compilation" />
     <MESSAGE value="Getting Started with Reducers" />
     <MESSAGE value=" Adding Logic to the Reducer" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Adding Logic to the Reducer" />
+    <MESSAGE value="Understanding &amp; Adding Actions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Understanding &amp; Adding Actions" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
