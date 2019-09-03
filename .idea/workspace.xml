@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/project/src/app/shopping-list/shopping-list.reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/shopping-list/shopping-list.reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/src/app/shopping-list/store/shopping-list.actions.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/project/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/shopping-list/shopping-list.reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/shopping-list/store/shopping-list.reducer.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,11 +54,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Timo\Documents\Angular\angular8-course\project\src\app\shopping-list\store" />
       <recent name="C:\Users\Timo\Documents\Angular\angular8-course\project\src\app" />
       <recent name="C:\Users\Timo\Documents\Angular\angular8-course\routing-start\src\app" />
       <recent name="C:\Users\Timo\Documents\Angular\angular8-course\directives-start\src\app\better-highlight" />
       <recent name="C:\Users\Timo\Documents\Angular\angular8-course\Assignment 4\src\app" />
-      <recent name="C:\Users\Timo\Documents\Angular\angular8-course\project\src\app\recipes" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -163,14 +166,7 @@
       <workItem from="1567054615270" duration="2652000" />
       <workItem from="1567057284253" duration="10824000" />
       <workItem from="1567070776668" duration="249000" />
-      <workItem from="1567486432634" duration="1377000" />
-    </task>
-    <task id="LOCAL-00037" summary=" Introducing Interceptors">
-      <created>1566204048659</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1566204048659</updated>
+      <workItem from="1567486432634" duration="2015000" />
     </task>
     <task id="LOCAL-00038" summary="Manipulating Request Objects">
       <created>1566204306096</created>
@@ -508,7 +504,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567487451233</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary=" Adding Logic to the Reducer">
+      <created>1567487843069</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1567487843069</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -545,7 +548,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Attaching the Token with an Interceptor" />
     <MESSAGE value=" Adding Logout" />
     <MESSAGE value="Adding Auto-Login" />
     <MESSAGE value=" Adding Auto-Logout" />
@@ -570,7 +572,8 @@
     <MESSAGE value=" Loading Services Differently" />
     <MESSAGE value="Ahead-of-Time Compilation" />
     <MESSAGE value="Getting Started with Reducers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Getting Started with Reducers" />
+    <MESSAGE value=" Adding Logic to the Reducer" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Adding Logic to the Reducer" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
