@@ -15,9 +15,10 @@ export class ShoppingListComponent implements OnInit, OnDestroy {
   ingredients: Observable<{ ingredients: Ingredient[] }>;
   private subscription: Subscription;
 
-  constructor(private shoppingListService: ShoppingListService,
-              private loggingService: LoggingService,
-              private store: Store<{ shoppingList: { ingredients: Ingredient[] } }>
+  constructor(
+    private shoppingListService: ShoppingListService,
+    private loggingService: LoggingService,
+    private store: Store<{ shoppingList: { ingredients: Ingredient[] } }>
   ) {
   }
 

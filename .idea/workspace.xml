@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/app/shopping-list/shopping-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/shopping-list/shopping-list.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/src/app/shopping-list/shopping-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/shopping-list/shopping-list.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/app/shopping-list/store/shopping-list.reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/shopping-list/store/shopping-list.reducer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/app/shopping-list/store/shopping-list.actions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/shopping-list/store/shopping-list.actions.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -166,14 +166,7 @@
       <workItem from="1567054615270" duration="2652000" />
       <workItem from="1567057284253" duration="10824000" />
       <workItem from="1567070776668" duration="249000" />
-      <workItem from="1567486432634" duration="3249000" />
-    </task>
-    <task id="LOCAL-00040" summary=" Multiple Interceptors">
-      <created>1566205250553</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1566205250553</updated>
+      <workItem from="1567486432634" duration="4388000" />
     </task>
     <task id="LOCAL-00041" summary=" Setting Up the DataStorage Service">
       <created>1566281266006</created>
@@ -511,7 +504,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567489050579</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary=" Selecting State">
+      <created>1567489728893</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1567489728893</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -548,7 +548,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value=" Adding Auto-Logout" />
     <MESSAGE value=" Adding an Auth Guard" />
     <MESSAGE value=" Adding an Alert Modal Component" />
     <MESSAGE value="Using ngIf" />
@@ -573,7 +572,8 @@
     <MESSAGE value=" Adding Logic to the Reducer" />
     <MESSAGE value="Understanding &amp; Adding Actions" />
     <MESSAGE value=" Setting Up the NgRx Store" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Setting Up the NgRx Store" />
+    <MESSAGE value=" Selecting State" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Selecting State" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
