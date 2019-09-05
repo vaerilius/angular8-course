@@ -1,6 +1,5 @@
 import {Ingredient} from '../../shared/ingredient.model';
 import * as ShoppingListActions from './shopping-list.actions'
-import {AddIngredient, AddIngredients} from './shopping-list.actions'
 
 const initialState = {
   ingredients: [
@@ -11,7 +10,7 @@ const initialState = {
 
 export function shoppingListReducer(
   state = initialState,
-  action: ShoppingListActions) {
+  action: ShoppingListActions.ShoppingListActions) {
   switch (action.type) {
     case ShoppingListActions.ADD_INGREDIENT:
       return {
@@ -28,4 +27,3 @@ export function shoppingListReducer(
   }
 }
 
-export type ShoppingListActions = AddIngredient | AddIngredients;

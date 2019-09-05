@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6a0cb8cb-0923-46cd-968f-34ae6b7f38ab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/app/recipes/recipe.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/recipes/recipe.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/src/app/shopping-list/store/shopping-list.actions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/shopping-list/store/shopping-list.actions.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/src/app/shopping-list/store/shopping-list.reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/app/shopping-list/store/shopping-list.reducer.ts" afterDir="false" />
     </list>
@@ -166,14 +165,10 @@
       <workItem from="1567054615270" duration="2652000" />
       <workItem from="1567057284253" duration="10824000" />
       <workItem from="1567070776668" duration="249000" />
-      <workItem from="1567486432634" duration="5351000" />
-    </task>
-    <task id="LOCAL-00042" summary=" Storing Recipes">
-      <created>1566282115193</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1566282115193</updated>
+      <workItem from="1567486432634" duration="6096000" />
+      <workItem from="1567509011196" duration="2000" />
+      <workItem from="1567572738101" duration="15000" />
+      <workItem from="1567677812424" duration="1216000" />
     </task>
     <task id="LOCAL-00043" summary=" Fetching Recipes">
       <created>1566282722832</created>
@@ -511,7 +506,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567491094047</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="Multiple Actions">
+      <created>1567492067764</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1567492067764</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -548,7 +550,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value=" Adding an Alert Modal Component" />
     <MESSAGE value="Using ngIf" />
     <MESSAGE value=" Preparing Programmatic Creation" />
     <MESSAGE value="Creating a Component Programmatically" />
@@ -573,7 +574,8 @@
     <MESSAGE value=" Setting Up the NgRx Store" />
     <MESSAGE value=" Selecting State" />
     <MESSAGE value="Dispatching Actions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dispatching Actions" />
+    <MESSAGE value="Multiple Actions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Multiple Actions" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
