@@ -1,13 +1,12 @@
-import {Injectable} from '@angular/core';
+import { Injectable } from '@angular/core';
 
-@Injectable({providedIn: 'root'})
+// @Injectable({ providedIn: 'root' })
 export class LoggingService {
-  laslog: string;
-
+  lastlog: string;
 
   printLog(message: string) {
     console.log(message);
-    console.log(this.laslog);
-    this.laslog = message;
+    console.log(this.lastlog);
+    this.lastlog = message;
   }
 }
